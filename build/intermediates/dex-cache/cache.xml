@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/lryain/Documents/github/BalanbotAndroidClient/build/intermediates/pre-dexed/basic/debug/classes-36922c14b0e3987b1fe12226cf5284fa8e1ad2c8.jar"
+        jar="/Users/lryain/Documents/github/BalanbotAndroidClient/build/intermediates/exploded-aar/com.viewpagerindicator/viewpagerindicator/2.4.1/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3c0b93a0bc07994b8e56d4a513f98f4baaa32bfa"/>
+    <item
+        dex="/Users/lryain/Documents/github/BalanbotAndroidClient/build/intermediates/pre-dexed/basic/debug/classes-8008ca456a239b17f6b9f4c0d910d1bc7620be42.jar"
+        jar="/Users/lryain/Documents/github/BalanbotAndroidClient/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49"/>
+    <item
+        dex="/Users/lryain/Documents/github/BalanbotAndroidClient/build/intermediates/pre-dexed/basic/debug/classes-497182da9dc4dd8282af920f549286c9a72fa202.jar"
+        jar="/Users/lryain/Documents/github/BalanbotAndroidClient/build/intermediates/exploded-aar/com.jjoe64.graphview/graphview/3.1.1/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="0a023af464b5bc6800ff30d1145c486c63460777"/>
+    <item
+        dex="/Users/lryain/Documents/github/BalanbotAndroidClient/build/intermediates/pre-dexed/basic/debug/support-annotations-20.0.0-bca9cd8c8082330ef7549e0398af852faae531fd.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/Users/lryain/Documents/github/BalanbotAndroidClient/build/intermediates/pre-dexed/basic/debug/internal_impl-20.0.0-a653b665793a429b139ab9afd9fb8d5223a72304.jar"
+        jar="/Users/lryain/Documents/github/BalanbotAndroidClient/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/Users/lryain/Documents/github/BalanbotAndroidClient/build/intermediates/pre-dexed/basic/debug/classes-9bf3b1f53ab7ba6c2c415a15771a8bc88f7bc7c9.jar"
+        jar="/Users/lryain/Documents/github/BalanbotAndroidClient/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+
+</pre-dex-items>
